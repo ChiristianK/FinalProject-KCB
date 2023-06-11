@@ -12,7 +12,7 @@ Anggota Kelompok
 2. Chiristian K 21081010169
 
 
-Hasil Akhir Pengecean Gambar : 
+Contoh Hasil Akhir Pengecean Gambar : 
 
 <=======================================================>
 ![image](https://github.com/ChiristianK/FinalProject-KCB/assets/91868266/ca3c3375-4ba8-404d-88e1-c919d44417ba)

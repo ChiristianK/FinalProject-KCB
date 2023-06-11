@@ -10,3 +10,7 @@ Referensi tugas akhir Program
 Anggota Kelompok
 1. Dzulfikar Al Ghozali 21081010160
 2. Chiristian K 21081010169
+
+
+Hasil Akhir Pengecean Gambar : 
+![image](https://github.com/ChiristianK/FinalProject-KCB/assets/91868266/ca3c3375-4ba8-404d-88e1-c919d44417ba)

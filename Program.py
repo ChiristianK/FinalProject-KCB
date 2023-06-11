@@ -1,15 +1,15 @@
 #-------------------------------------------------------------------------------------------------------------------------------------->
 #import library
-from google.colab import drive
-drive.mount('/content/drive/')
 import tensorflow as tf
-from keras.preprocessing import image
+from keras.utils import load_img, img_to_array
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
 import numpy as np
 from google.colab import files
 import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
 import zipfile, os
+from google.colab import drive
+drive.mount('/content/drive/')
 #-------------------------------------------------------------------------------------------------------------------------------------->
 
 #-------------------------------------------------------------------------------------------------------------------------------------->

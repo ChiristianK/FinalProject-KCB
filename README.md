@@ -13,7 +13,7 @@ Anggota Kelompok
 3. Nugraha Varrel Kusuma 21081010198
 
 
-Contoh Hasil Akhir Pengecean Gambar : 
+Contoh Hasil Akhir Pengecekan Gambar : 
 
 <=======================================================>
 ![image](https://github.com/ChiristianK/FinalProject-KCB/assets/91868266/ca3c3375-4ba8-404d-88e1-c919d44417ba)

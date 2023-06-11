@@ -10,6 +10,7 @@ Referensi tugas akhir Program
 Anggota Kelompok
 1. Dzulfikar Al Ghozali 21081010160
 2. Chiristian K 21081010169
+3. Nugraha Varrel Kusuma 21081010198
 
 
 Contoh Hasil Akhir Pengecean Gambar : 
